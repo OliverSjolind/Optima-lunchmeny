@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(pics/dinner-dish-egg-54455-compressor.jpg);
+   background: url(Pics/dinner-dish-egg-54455-compressor.jpg) repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
